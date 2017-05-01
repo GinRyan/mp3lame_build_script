@@ -8,7 +8,7 @@ NDK r12+
 
 如有需要，可以对脚本进行修改，比如如果想要在Windows的Linux bash下编译或者直接就在Linux下编译，需要修改DOS格式路径改为POSIX格式路径
 
-#License
+# License
 
 MIT
 
